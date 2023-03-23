@@ -3,3 +3,18 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "DarkDiv"]
+	path = DarkDiv
+	url = https://github.com/cran/DarkDiv
+	shallow = true
+	registered = true
+[submodule "funspace"]
+	path = funspace
+	url = https://github.com/cran/funspace
+	shallow = true
+	registered = true
+[submodule "TPD"]
+	path = TPD
+	url = https://github.com/cran/TPD
+	shallow = true
+	registered = true
