@@ -5,9 +5,9 @@
 [submodule "DarkDiv"]
 	path = DarkDiv
 	url = https://github.com/cran/DarkDiv
-[submodule "funspace"]
-	path = funspace
-	url = https://github.com/cran/funspace
 [submodule "TPD"]
 	path = TPD
 	url = https://github.com/cran/TPD
+[submodule "funspace"]
+	path = funspace
+	url = https://github.com/cran/funspace
